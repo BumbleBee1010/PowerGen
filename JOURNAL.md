@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 20.1h | 5 |
+| Week 5 | Tier 3 | 23.1h | 5 |
 
 ## Contents
 
@@ -18,7 +18,7 @@
 2. [2026-11-07: # PCB schematic](#2026-11-07-pcb-schematic)
 3. [2026-11-08: # PCB done](#2026-11-08-pcb-done)
 4. [2026-11-08: # Big Changes...](#2026-11-08-big-changes)
-5. [2026-11-08: ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/550c21d041b91ed40277e48cf81ff78484885856bc56246c8069feaa3e41b27f.png)](#2026-11-08-imagehttpshalflifehackclub-assetscomsessions91hf7)
+5. [2026-11-08: # CAD](#2026-11-08-cad)
 
 ## Design
 
@@ -120,25 +120,25 @@ I updated my BOM to include the PCB which is only $4 + shipping. The rest of my 
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/ff8d36ce6eb302d8638c221161d167b5dc30c889277fe22adfeec692160aea36.png)
 
-### 2026-11-08: ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/550c21d041b91ed40277e48cf81ff78484885856bc56246c8069feaa3e41b27f.png)
+### 2026-11-08: # CAD
 
-**1h**
+**4h**
 
-![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/550c21d041b91ed40277e48cf81ff78484885856bc56246c8069feaa3e41b27f.png)
+# CAD
+## Stepper
+I started by deriving the nema 23 stepper into fusion. I got it from grabcad but I had to fix the mistakes. I changed it so the output was a 6.35mm d shaft, originally it was circular which is wrong.
 
-![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/220a59ff0dbc62a156772af02fd5a1380dad667cf5bf852dc7d25cd8bf2a55dc.png)
+![1000009834](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/16ffc4b9d41374bb0be68b621ce85da87b90cdb7a35c1d9197f69ed38f1fbfa7.png)
 
-To stop elephant's foot on 3D-printed gears, you can apply a 45-degree underside chamfer to the bottom perimeter of the gear in Autodesk Fusion. This pre-emptively carves away material where the plastic naturally squishes out, leaving you with a perfectly flush, sharp edge that prevents your gear teeth from fusing together.
+## Gears
+Then I created the gears with GF Gear Generator, a addon/ utility I installed in fusion. So I created the two gears, a 12T one and a 54T one (T = tooth), that was fairly straightforward, I just need to make sure the module was 1.5, good for printing and a decent thickness, I chose 12mm. Also later, but I'll say now on this topic, but I chamfered the top and bottom of the gear to stop elephant foot, a problem when the edges of the gears splay outward.
 
-Step-by-Step: Chamfering a Gear in Fusion
+![1000009835](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/534059aa1eafb96d686e04f61804985f04c0ce7a00c3d7fb5aef750eb2f3d678.png)
+## Mounting
+When I was figuring how to mount the gears, I decided to use a faceplate attached to the stepper with a hole for the bearing to slot into. The are alignment rods of one side to fix the plate to the stepper. The plate also wraps around the doors of the stepper.
 
-Instead of clicking dozens of tiny gear tooth edges individually, use this quick face-selection method:
-1. Open the Chamfer Tool: Go to the Solid tab, open the Modify drop-down menu, and select Chamfer (or simply press S on your keyboard, type "Chamfer", and hit enter).
-2. Select the Bottom Face: Orbit your model so you can see the very bottom of the gear (the side that sits flat on the 3D printer's build plate). Click the entire flat bottom face of the gear rather than individual edges.
-	• Note: Selecting the face automatically selects all of its bo
+![1000009837](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/38aa1e29eef8c1574b3a5dc3d38c1b214cd1118ccfb131926a662e40cc6a0a70.png)
+## Handle
+The handle is made up of two parts. The main bit which attaches to the large gear via alignment pins and M3 screws and the knob which is attached via a bearing at the end of the handle. The entire handle is about 90mm long to give a balance of leverage and turning comfort.
 
-![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/ef0bf44f2f846c2edaea7136d1ff71d8b8725366a6d2c39ca125b956ede0fa72.png)
-
-![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/e4cbe1c831a3032aaf41c349027c58f433e619ed55524253a038cfc057883cde.png)
-
-![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/d9aa027ad9398d3e397f0ee48027ff0e212f76d63b59df38e877c14e85012dcc.png)
+![1000009836](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/5a815bacfc27a1923f11057685fe58209336d1b077b82f667824bcd35d8056de.png)
