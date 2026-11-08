@@ -15,3 +15,7 @@ On the electronics side of the design, the plan is to route the motor's AC outpu
 Organizing the Power Bank
 
 The base of the CAD enclosure is designed around a 3S2P 18650 battery bank layout, which gives me a solid footprint to work with. To bridge the gap between my hand-cranking and the battery cells, I'm leaving ample room in the housing to mount a buck-boost regulator and a protective BMS to keep the incoming power clean and safe.
+
+# CAD
+I did lots of CAD 
+
