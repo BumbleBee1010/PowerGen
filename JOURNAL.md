@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/qk10rxavlfxbqmpknzku5tpf)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> It will be a hand generator into some batteries
+> A portable(-ish) power generator. That is made using a NEMA 23, a gear ratio and power is made by turning a hand crank.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
