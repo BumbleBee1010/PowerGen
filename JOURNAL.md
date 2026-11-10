@@ -163,11 +163,14 @@ Added stuff to Github repository and did README and included pictures. This took
 **2.75h**
 
 # Changing the PCB
-I was going to do a case and finish the CAD. But I couldn't think of a good small layout for the entire thing, mainly because the PCB was 75*75mm and the the capacitor protruded off it another 40mm so took up a lot of bulk. And the buck converter has heat sinks and stuff so that is quite bulky too. So in the end I redesigned the PCB to make it 60*65 which is nearly the same width as the nema 23 so it should fit next to it snugly. I did not change the schematic and only changed the layout. I had to double check the size of the capacitor because the one in my PCB 3d view was just a placeholder and not the actual thing so it was massively oversized for some reason. If you look at the face plate of the nema 23 it is about that size + 5mm on one side so quite small.
+I was going to do a case and finish the CAD. But I couldn't think of a good small layout for the entire thing, mainly because the PCB was 75x75mm and the the capacitor protruded off it another 40mm so took up a lot of bulk. And the buck converter has heat sinks and stuff so that is quite bulky too. So in the end I redesigned the PCB to make it 60x65 which is nearly the same width as the nema 23 so it should fit next to it snugly. I did not change the schematic and only changed the layout. I had to double check the size of the capacitor because the one in my PCB 3d view was just a placeholder and not the actual thing so it was massively oversized for some reason. If you look at the face plate of the nema 23 it is about that size + 5mm on one side so quite small. The capacitor is not as big as  in the 3D view btw...
 
-![1000009834](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/16ffc4b9d41374bb0be68b621ce85da87b90cdb7a35c1d9197f69ed38f1fbfa7.png)
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/c90d8344b91f4a2db18682531d47b61da46dcb38abaa27bc92d0951b353bd816.png)
 
-![1000009836](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/5a815bacfc27a1923f11057685fe58209336d1b077b82f667824bcd35d8056de.png)
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/023cac7e8bd945786dd5d94b5d4d67228d5f451eb3cc0ce8938df46e1546b1a1.png)
 
-![1000009835](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/534059aa1eafb96d686e04f61804985f04c0ce7a00c3d7fb5aef750eb2f3d678.png)
- Placeholder images till I can change them on my computer. They are of CAD from earlier on in project btw.
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/50d02009e9a6eeb9aecdfb9c74baced15bd79aad0c2ad0a640ad8c832caf20b0.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/a3838dc30ef1c2a564bf29cb7ea20249197f16f1e6048b5c01d8f1b1db9e783f.png)
+
+I didn't really know what order to put the pictures in but they are there. The size of the capacitor and how I had to orient the picture is quite funny even though it is completely the wrong size ;)
