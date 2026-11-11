@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 33.1h | 8 |
+| Week 5 | Tier 3 | 33.6h | 8 |
 
 ## Contents
 
@@ -161,7 +161,7 @@ Added stuff to Github repository and did README and included pictures. This took
 
 ### 2026-11-09: # Changing the PCB
 
-**3.25h**
+**3.75h**
 
 # Changing the PCB
 I was going to do a case and finish the CAD. But I couldn't think of a good small layout for the entire thing, mainly because the PCB was 75x75mm and the the capacitor protruded off it another 40mm so took up a lot of bulk. And the buck converter has heat sinks and stuff so that is quite bulky too. So in the end I redesigned the PCB to make it 60x65 which is nearly the same width as the nema 23 so it should fit next to it snugly. I did not change the schematic and only changed the layout. I had to double check the size of the capacitor because the one in my PCB 3d view was just a placeholder and not the actual thing so it was massively oversized for some reason. If you look at the face plate of the nema 23 it is about that size + 5mm on one side so quite small. The capacitor is not as big as  in the 3D view btw...
