@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 33.6h | 8 |
+| Week 5 | Tier 3 | 33.35h | 8 |
 
 ## Contents
 
@@ -178,7 +178,7 @@ I didn't really know what order to put the pictures in but they are there. The s
 
 ### 2026-11-11: # CAD
 
-**3.75h**
+**3.5h**
 
 # CAD
 I changed the CAD design slightly and derived a 18650 holder and edited it to fit my needs. I also changed the mount slightly to make it look more aesthetical and use less material so be cheaper. I did a 1x and 2x 18650 holder to see which was cheaper, the 2x was...
