@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 35.6h | 9 |
+| Week 5 | Tier 3 | 36.35h | 9 |
 
 ## Contents
 
@@ -194,7 +194,7 @@ whole design, there will be 3 of the 18650 holders to do my 3s2p setup.
 
 ### 2026-11-12: GitHub Repo
 
-**2h**
+**2.75h**
 
 GitHub Repo
 I wrote about my project in depth and added all the pictures related to it to finish my repository, I talked about the PCB, the CAD and what my project actually is and the BOM. I tried to write in detail but not excessively waffle, hopefully it is okay.
@@ -203,3 +203,9 @@ I wrote about my project in depth and added all the pictures related to it to fi
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/611d65b49e10454cb1f0c75bb9a4d9f1540af7531e0c0ff8e92bdbf2f9397996.png)
 PCB stuff
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/423efa783a6071f30b05ce7b473dc6ee2af26a81a25aed10f7fec30849719d66.png)
+Cad bit
+
+# Misc
+I also updated all my bits on half life, project description, ect.  and did my reels
