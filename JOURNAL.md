@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 37.25h | 9 |
+| Week 5 | Tier 3 | 37.5h | 9 |
 
 ## Contents
 
@@ -196,7 +196,7 @@ whole design, there will be 3 of the 18650 holders to do my 3s2p setup.
 
 ### 2026-11-12: GitHub Repo
 
-**2.75h**
+**3h**
 
 GitHub Repo
 I wrote about my project in depth and added all the pictures related to it to finish my repository, I talked about the PCB, the CAD and what my project actually is and the BOM. I tried to write in detail but not excessively waffle, hopefully it is okay.
