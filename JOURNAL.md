@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 37.25h | 9 |
+| Week 5 | Tier 3 | 38.25h | 9 |
 
 ## Contents
 
@@ -164,7 +164,7 @@ Added stuff to Github repository and did README and included pictures. This took
 
 ### 2026-11-09: # Changing the PCB
 
-**4h**
+**5h**
 
 # Changing the PCB
 I was going to do a case and finish the CAD. But I couldn't think of a good small layout for the entire thing, mainly because the PCB was 75x75mm and the the capacitor protruded off it another 40mm so took up a lot of bulk. And the buck converter has heat sinks and stuff so that is quite bulky too. So in the end I redesigned the PCB to make it 60x65 which is nearly the same width as the nema 23 so it should fit next to it snugly. I did not change the schematic and only changed the layout. I had to double check the size of the capacitor because the one in my PCB 3d view was just a placeholder and not the actual thing so it was massively oversized for some reason. If you look at the face plate of the nema 23 it is about that size + 5mm on one side so quite small. The capacitor is not as big as  in the 3D view btw...
@@ -174,10 +174,17 @@ I was going to do a case and finish the CAD. But I couldn't think of a good smal
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/023cac7e8bd945786dd5d94b5d4d67228d5f451eb3cc0ce8938df46e1546b1a1.png)
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/50d02009e9a6eeb9aecdfb9c74baced15bd79aad0c2ad0a640ad8c832caf20b0.png)
+above ones all new
 
-![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/a3838dc30ef1c2a564bf29cb7ea20249197f16f1e6048b5c01d8f1b1db9e783f.png)
+below are old ones
+![Screenshot 2026-11-08 100136](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/cb88e7675d9353c15556e8253c47629430cecd0b3b9708ebe0fd4b3b9a6764fa.png)
+
+![Screenshot 2026-11-08 095927](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/3ce1435019073f259c145e19ca5bd5d2b4c3f1d22608282abc771adc04e0634e.png)
 
 I didn't really know what order to put the pictures in but they are there. The size of the capacitor and how I had to orient the picture is quite funny even though it is completely the wrong size ;)
+
+# Wiring
+Also changing the PCB made me think about wires and I was originally planning to use 16 awg but now have decided to use 18 AWG because it is cheaper and I don't need that much Amp draw.
 
 ### 2026-11-11: # CAD
 
