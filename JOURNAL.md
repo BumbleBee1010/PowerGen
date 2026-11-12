@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 36.5h | 9 |
+| Week 5 | Tier 3 | 37.25h | 9 |
 
 ## Contents
 
@@ -126,7 +126,7 @@ I updated my BOM to include the PCB which is only $4 + shipping. The rest of my 
 
 ### 2026-11-08: # CAD
 
-**4h**
+**4.75h**
 
 # CAD
 ## Stepper
@@ -143,9 +143,11 @@ When I was figuring how to mount the gears, I decided to use a faceplate attache
 
 ![1000009837](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/38aa1e29eef8c1574b3a5dc3d38c1b214cd1118ccfb131926a662e40cc6a0a70.png)
 ## Handle
-The handle is made up of two parts. The main bit which attaches to the large gear via alignment pins and M3 screws and the knob which is attached via a bearing at the end of the handle. The entire handle is about 90mm long to give a balance of leverage and turning comfort.
+The handle is made up of two parts. The main bit which attaches to the large gear via alignment pins and M3 screws and the knob which is attached via a bearing at the end of the handle. The entire handle is about 90mm long to give a balance of leverage and turning comfort. I made the knob bit to have a pin/ bit sticking out the bottom to fit into a bearing so it can spin easier. There is also a cut out with tolerances in the main handle for the bearing to push fit inside.
 
 ![1000009836](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/5a815bacfc27a1923f11057685fe58209336d1b077b82f667824bcd35d8056de.png)
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/cbe92b15b1c94b8379b1a03e6862fdf99c1efc60869272706020f432f3db5b9a.png)
 
 ### 2026-11-08: # Repo
 
