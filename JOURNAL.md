@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 38.75h | 9 |
+| Week 5 | Tier 3 | 39h | 9 |
 
 ## Contents
 
@@ -188,7 +188,7 @@ Also changing the PCB made me think about wires and I was originally planning to
 
 ### 2026-11-11: # CAD
 
-**3.5h**
+**3.75h**
 
 # CAD
 I changed the CAD design slightly and derived a 18650 holder and edited it to fit my needs. I also changed the mount slightly to make it look more aesthetical and use less material so be cheaper. I did a 1x and 2x 18650 holder to see which was cheaper, the 2x was...
