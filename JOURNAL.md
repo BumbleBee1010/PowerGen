@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 38.25h | 9 |
+| Week 5 | Tier 3 | 38.75h | 9 |
 
 ## Contents
 
@@ -22,7 +22,7 @@
 6. [2026-11-08: # Repo](#2026-11-08-repo)
 7. [2026-11-09: # Changing the PCB](#2026-11-09-changing-the-pcb)
 8. [2026-11-11: # CAD](#2026-11-11-cad)
-9. [2026-11-12: GitHub Repo](#2026-11-12-github-repo)
+9. [2026-11-12: # GitHub Repo](#2026-11-12-github-repo)
 
 ## Design
 
@@ -201,11 +201,11 @@ new and improved mount
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/00852936030cc17614ac8d23cfc06f029b4cc4cf5981e356839a2eb5c2aaf223.png)
 whole design, there will be 3 of the 18650 holders to do my 3s2p setup.
 
-### 2026-11-12: GitHub Repo
+### 2026-11-12: # GitHub Repo
 
-**3h**
+**3.5h**
 
-GitHub Repo
+# GitHub Repo
 I wrote about my project in depth and added all the pictures related to it to finish my repository, I talked about the PCB, the CAD and what my project actually is and the BOM. I tried to write in detail but not excessively waffle, hopefully it is okay.
 
 ![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/0660214701e475473006a03c5ba44361be7131dcebcd6dcba71083912a3f7e41.png)
@@ -217,4 +217,6 @@ PCB stuff
 Cad bit
 
 # Misc
-I also updated all my bits on half life, project description, ect.  and did my reels
+I also updated all my bits on half life, project description, ect.  and did my reels. i also got to 102.99 totally unplanned
+
+![image](https://halflife.hackclub-assets.com/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/b9d91fa1c9678ebfd4b78b28bf40de19958e684d9683cace8246340bb07d633a.png)
