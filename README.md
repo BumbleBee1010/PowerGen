@@ -36,4 +36,26 @@ I did lots of CAD, I derived the Nema 23, which I got from GrabCAD, and edited i
 <img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/e82847f4-a95c-4818-b924-c1937370ac4a" />
 
 # BOM
-I did all the prices and it is slightly over the $100 budget, however, coupons and discounts will probably lower this price to be within budget. All the AliExpress stuff is free shipping, only the batteries, stepper and JLC stuff require shipping costs, which is about a quarter if the cost, mainly because of weight and bulk of some of the items and that the stepper and batteries are sourced from Europe/ the UK, which cost slightly more but shipping is infinitely less.
+I did all the prices and it is slightly over the $100 budget, however, coupons and discounts will probably lower this price to be within budget. All the AliExpress stuff is free shipping, only the batteries, stepper and JLC stuff require shipping costs, which is about a quarter if the cost, mainly because of weight and bulk of some of the items and that the stepper and batteries are sourced from Europe/ the UK, which cost slightly more but shipping is infinitely less. 
+
+
+| Item | Qty | Supplier | Cost/item | Total Cost |
+| :--- | :--- | :--- | :--- | :--- |
+| Nema 23 stepper 76mm | 1 | StepperOnline | $20.66 | $20.66 |
+| 18650s (3500mAh, 10.2A) | 1 | NKON | $15.60 | $15.60 |
+| KF301 Screw terminal | 1 | AliExpress | $2.05 | $2.05 |
+| SR560 Schottky Diode | 1 | AliExpress | $2.20 | $2.20 |
+| 4700µF 63V & 100nf Capacitors | 1 | AliExpress | $2.75 | $2.75 |
+| 15A Fuse and Holder | 1 | AliExpress | $1.34 | $1.34 |
+| XL4016 buck convertor | 1 | AliExpress | $4.00 | $4.00 |
+| USB C dual charger outputs | 2 | AliExpress | $1.08 | $2.16 |
+| Switches (2 pin) | 1 | AliExpress | $1.35 | $1.35 |
+| 3S 40a balanced BMS | 1 | AliExpress | $1.80 | $1.80 |
+| Bearings | 1 | AliExpress | $1.35 | $1.35 |
+| Wire & nickel strips | 1 | AliExpress | $6.50 | $6.50 |
+| JLC stuff | 1 | JLC PCB & 3DP | $15.50 | $15.50 |
+| Exxchange rate fluctuation | 1 | Xe | $0.20 | $0.20 |
+| Estimated total shipping | 1 | | | $25.50 |
+| Estimated total | | | | *$102.96* |
+
+If you wish to find parts link, please look at the BOM.csv in files
