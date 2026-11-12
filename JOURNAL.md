@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 5 | Tier 3 | 36.35h | 9 |
+| Week 5 | Tier 3 | 36.5h | 9 |
 
 ## Contents
 
@@ -97,7 +97,7 @@ I found a marginally cheaper nema 23 stepper on stepper online which saved me ab
 
 ### 2026-11-08: # Big Changes...
 
-**5.35h**
+**5.5h**
 
 # Big Changes...
 ## Cuts
