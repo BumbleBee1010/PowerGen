@@ -2,7 +2,7 @@
 A portable(-ish) power generator. That is made using a NEMA 23, a gear ratio and power is made by turning a hand crank. PowerGen is my idea of a off grid power bank. It is a prototype and partly designed and is a first iteration on a tight budget.
 
 # How does it work?
-For the drivetrain, I decided to design a set of straight spur gears to achieve the necessary speed step-up ratio. So the hand crank generates enough force to turn the motor and generate voltage, about 20v to 35v I think it will achieve. This generated power will then be fed into a 3s2p 18650 powerbank and then that will output into 2 dual usb c chargers. 
+For the rotation, I decided to design a set of spur gears to achieve the necessary speed step-up ratio. So the hand crank generates enough force to turn the motor and generate voltage, about 20v to 35v I think it will achieve. This generated power will then be fed into a 3s2p 18650 powerbank and then that will output into 2 dual usb c chargers. 
 
 # PCB changes and results
 ## Schematic
